@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_XAGHKD_SilverHKD_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_XAGHKD_SilverHKD_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 4578,
+  "row_count": 5991,
   "first_candle": {
     "time": 1793574240,
     "Time": "2026-11-01T23:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 24
   },
   "last_candle": {
-    "time": 1793860380,
-    "Time": "2026-11-05T06:33:00.000000000Z",
-    "open": 413.96136,
-    "high": 413.96136,
-    "low": 413.48284,
-    "close": 413.6162,
-    "volume": 228
+    "time": 1793949000,
+    "Time": "2026-11-06T07:10:00.000000000Z",
+    "open": 403.27474,
+    "high": 403.50416,
+    "low": 403.10218,
+    "close": 403.21584,
+    "volume": 300
   },
   "csv_file": "OANDA_XAGHKD_SilverHKD_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 4578,
+  "csv_row_count": 5991,
   "csv_first_candle": {
     "time": 1793574240,
     "Time": "2026-11-01T23:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 24
   },
   "csv_last_candle": {
-    "time": 1793860380,
-    "Time": "2026-11-05T06:33:00.000000000Z",
-    "open": 413.96136,
-    "high": 413.96136,
-    "low": 413.48284,
-    "close": 413.6162,
-    "volume": 228
+    "time": 1793949000,
+    "Time": "2026-11-06T07:10:00.000000000Z",
+    "open": 403.27474,
+    "high": 403.50416,
+    "low": 403.10218,
+    "close": 403.21584,
+    "volume": 300
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-05T06:34:20.000000000Z",
-  "generated_at": "2026-11-05T06:34:20.000000000Z",
+  "verified_at": "2026-11-06T07:11:48.000000000Z",
+  "generated_at": "2026-11-06T07:11:48.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-03T07:21:00Z",
-        "to": "2026-11-05T06:34:00Z",
+        "from": "2026-11-05T06:28:00Z",
+        "to": "2026-11-06T07:11:00Z",
         "code": 200,
         "msg": "OK"
       }
