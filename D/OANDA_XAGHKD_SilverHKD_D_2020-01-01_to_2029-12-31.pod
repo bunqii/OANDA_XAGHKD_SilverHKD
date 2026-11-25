@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_XAGHKD_SilverHKD_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_XAGHKD_SilverHKD_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1780,
+  "row_count": 1781,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 22995
   },
   "last_candle": {
-    "time": 1795384800,
-    "Time": "2026-11-22T22:00:00.000000000Z",
-    "open": 330.08902,
-    "high": 347.07578,
-    "low": 325.54639,
-    "close": 338.52889,
-    "volume": 497984
+    "time": 1795471200,
+    "Time": "2026-11-23T22:00:00.000000000Z",
+    "open": 340.16262,
+    "high": 345.2102,
+    "low": 319.01336,
+    "close": 320.90456,
+    "volume": 491277
   },
   "csv_file": "OANDA_XAGHKD_SilverHKD_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1780,
+  "csv_row_count": 1781,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 22995
   },
   "csv_last_candle": {
-    "time": 1795384800,
-    "Time": "2026-11-22T22:00:00.000000000Z",
-    "open": 330.08902,
-    "high": 347.07578,
-    "low": 325.54639,
-    "close": 338.52889,
-    "volume": 497984
+    "time": 1795471200,
+    "Time": "2026-11-23T22:00:00.000000000Z",
+    "open": 340.16262,
+    "high": 345.2102,
+    "low": 319.01336,
+    "close": 320.90456,
+    "volume": 491277
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-24T10:20:06.000000000Z",
-  "generated_at": "2026-11-24T10:20:06.000000000Z",
+  "verified_at": "2026-11-25T08:30:55.000000000Z",
+  "generated_at": "2026-11-25T08:30:55.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-18T22:00:00Z",
-        "to": "2026-11-23T22:00:00Z",
+        "from": "2026-11-21T22:00:00Z",
+        "to": "2026-11-24T22:00:00Z",
         "code": 200,
         "msg": "OK"
       }
