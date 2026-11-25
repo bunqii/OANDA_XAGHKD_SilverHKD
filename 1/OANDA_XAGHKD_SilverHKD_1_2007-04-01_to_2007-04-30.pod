@@ -1,0 +1,81 @@
+{
+  "pod_version": "4.0",
+  "instrument": "XAG_HKD",
+  "granularity": "M1",
+  "chunk_start": "2007-04-01",
+  "chunk_end": "2007-04-30",
+  "parquet_file": "OANDA_XAGHKD_SilverHKD_1_2007-04-01_to_2007-04-30.parquet",
+  "data_file": "OANDA_XAGHKD_SilverHKD_1_2007-04-01_to_2007-04-30.parquet",
+  "row_count": 0,
+  "first_candle": null,
+  "last_candle": null,
+  "csv_file": "OANDA_XAGHKD_SilverHKD_1_2007-04-01_to_2007-04-30.parquet",
+  "csv_row_count": 0,
+  "csv_first_candle": null,
+  "csv_last_candle": null,
+  "status": "EMPTY",
+  "verified_at": "2026-11-25T08:31:57.000000000Z",
+  "generated_at": "2026-11-25T08:31:57.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2304,
+    "chunk_api_blocks": 9,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2007-03-31T10:40:00Z",
+        "to": "2007-04-03T22:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-03T22:00:00Z",
+        "to": "2007-04-07T09:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-07T09:20:00Z",
+        "to": "2007-04-10T20:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-10T20:40:00Z",
+        "to": "2007-04-14T08:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-14T08:00:00Z",
+        "to": "2007-04-17T19:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-17T19:20:00Z",
+        "to": "2007-04-21T06:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-21T06:40:00Z",
+        "to": "2007-04-24T18:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-24T18:00:00Z",
+        "to": "2007-04-28T05:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2007-04-28T05:20:00Z",
+        "to": "2007-05-01T16:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}

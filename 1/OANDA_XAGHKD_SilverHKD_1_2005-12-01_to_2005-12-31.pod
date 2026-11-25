@@ -1,0 +1,87 @@
+{
+  "pod_version": "4.0",
+  "instrument": "XAG_HKD",
+  "granularity": "M1",
+  "chunk_start": "2005-12-01",
+  "chunk_end": "2005-12-31",
+  "parquet_file": "OANDA_XAGHKD_SilverHKD_1_2005-12-01_to_2005-12-31.parquet",
+  "data_file": "OANDA_XAGHKD_SilverHKD_1_2005-12-01_to_2005-12-31.parquet",
+  "row_count": 0,
+  "first_candle": null,
+  "last_candle": null,
+  "csv_file": "OANDA_XAGHKD_SilverHKD_1_2005-12-01_to_2005-12-31.parquet",
+  "csv_row_count": 0,
+  "csv_first_candle": null,
+  "csv_last_candle": null,
+  "status": "EMPTY",
+  "verified_at": "2026-11-25T08:31:37.000000000Z",
+  "generated_at": "2026-11-25T08:31:37.000000000Z",
+  "download_request": {
+    "total_api_blocks_in_run": 2304,
+    "chunk_api_blocks": 10,
+    "chunk_permanent_errors": 0,
+    "permanent_error_details": [],
+    "all_block_outcomes": [
+      {
+        "from": "2005-11-30T08:00:00Z",
+        "to": "2005-12-03T19:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-03T19:20:00Z",
+        "to": "2005-12-07T06:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-07T06:40:00Z",
+        "to": "2005-12-10T18:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-10T18:00:00Z",
+        "to": "2005-12-14T05:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-14T05:20:00Z",
+        "to": "2005-12-17T16:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-17T16:40:00Z",
+        "to": "2005-12-21T04:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-21T04:00:00Z",
+        "to": "2005-12-24T15:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-24T15:20:00Z",
+        "to": "2005-12-28T02:40:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-28T02:40:00Z",
+        "to": "2005-12-31T14:00:00Z",
+        "code": 200,
+        "msg": "OK"
+      },
+      {
+        "from": "2005-12-31T14:00:00Z",
+        "to": "2006-01-04T01:20:00Z",
+        "code": 200,
+        "msg": "OK"
+      }
+    ]
+  }
+}
